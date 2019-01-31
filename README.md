@@ -1,5 +1,8 @@
 # test-ant-design-vue
 
+使用 vue-cli 创建的 居于 TypeScript的项目
+
+
 ## Project setup
 ```
 yarn install
